@@ -1,2 +1,1 @@
-# Mini-Project
-Data Analytics 
+The COVID-19 pandemic has had a profound impact globally. This project dives into the COVID-19 dataset to uncover patterns such as confirmed cases, deaths, recovery rates, and regional comparisons. The analysis is intended to build strong foundations in data handling, exploratory data analysis (EDA), and visualization.
